@@ -153,6 +153,6 @@ This software uses the following packages:
 
 ## 📌Contributors
 
-<a href="https://github.com/Ctere1/">
-  <img src="https://contrib.rocks/image?repo=Ctere1/Ctere1" />
+<a href="https://github.com/conveyGhost/">
+  <img src="images/black.png" />
 </a>
